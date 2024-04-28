@@ -4117,8 +4117,11 @@
 			]
 		},
 		{
-			"group": "Mashed - Fully Loaded",
+			"group": "Mashed - Drive to Survive",
 			"titles": [
+				{"searchTerm": "Mashed - Drive to Survive"}
+			],
+			"supersets": [
 				{"searchTerm": "Drive to Survive"},
 				{"searchTerm": "Mashed - Fully Loaded"},
 				{"searchTerm": "Simple 2000 Series Ultimate Vol. 28 - Tousou! Kenka Grand Prix - Drive to Survive"}
@@ -7453,6 +7456,24 @@
 			"titles": [
 				{"searchTerm": "Urban Chaos"},
 				{"searchTerm": "Urban Chaos - Riot Response"}
+			]
+		},
+		{
+			"group": "Usagi - Yasei no Touhai - Dramatic Mahjong",
+			"titles": [
+				{"searchTerm": "Usagi - Yasei no Touhai - Dramatic Mahjong"}
+			],
+			"compilations": [
+				{"searchTerm": "Simple 2000 Series Ultimate Vol. 22 - Stylish Mahjong - Usagi - Yasei no Touhai & Usagi - Yasei no Touhai - The Arcade Double Pack", "titlePosition": 1}
+			]
+		},
+		{
+			"group": "Usagi - Yasei no Touhai - The Arcade",
+			"titles": [
+				{"searchTerm": "Usagi - Yasei no Touhai - The Arcade"}
+			],
+			"compilations": [
+				{"searchTerm": "Simple 2000 Series Ultimate Vol. 22 - Stylish Mahjong - Usagi - Yasei no Touhai & Usagi - Yasei no Touhai - The Arcade Double Pack", "titlePosition": 2}
 			]
 		},
 		{
